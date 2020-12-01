@@ -1,0 +1,6 @@
+[manager]
+ansible-manager-1
+
+[worker]
+ansible-worker1
+ansible-worker2
